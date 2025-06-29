@@ -1,0 +1,30 @@
+body{
+    background-color:#00ffff
+
+;
+    text-transform: capitalize;
+    font-family: aptos, sans-serif;
+    
+}
+h1{
+    text-align: center;
+    background-color: rgb(255, 85, 0);
+    color:aliceblue
+}
+h2{
+    background-color: blue;
+    color:aliceblue
+}
+
+table{
+    border: 2px solid black ;
+}
+pre{
+    font-size: 15px;
+}
+ul{
+    
+}
+ul{
+    display:inline ;
+}
